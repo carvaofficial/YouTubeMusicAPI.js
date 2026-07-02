@@ -1,0 +1,12 @@
+{
+  "name": "youtubemusicapi.js",
+  "module": "src/index.js",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
