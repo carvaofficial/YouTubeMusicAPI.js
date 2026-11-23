@@ -1,0 +1,21 @@
+{
+  "album": "album",
+  "artist": "artiste",
+  "playlist": "playlist",
+  "song": "titre",
+  "video": "vidéo",
+  "station": "radio",
+  "profile": "profil",
+  "episode": "Épisode",
+  "single": "single",
+  "ep": "ep",
+  "performed_by": "Interprète(s)",
+  "written_by": "Auteur(s)/Compositeur(s)",
+  "produced_by": "Producteur(s)",
+  "music_metadata_provided_by": "Métadonnées du titre",
+  "singles & eps": "singles et ep",
+  "shows": "Livres audio et émissions",
+  "videos": "vidéos",
+  "related": "vous aimerez peut-être aussi",
+  "episodes": "épisodes les plus récents"
+}

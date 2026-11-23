@@ -3,6 +3,14 @@
   "module": "src/index.js",
   "type": "module",
   "types": "types/index.d.ts",
+  "bin": {
+    "ytmusicapi": "./bin/setup.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "bun run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },

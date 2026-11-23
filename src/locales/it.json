@@ -1,0 +1,22 @@
+{
+  "album": "album",
+  "artist": "artista",
+  "song": "brano",
+  "station": "stazione",
+  "profile": "profilo",
+  "episode": "Puntata",
+  "single": "singolo",
+  "ep": "ep",
+  "performed_by": "Eseguito da",
+  "written_by": "Scritto da",
+  "produced_by": "Prodotto da",
+  "music_metadata_provided_by": "Metadati dei contenuti musicali forniti da",
+  "albums": "album",
+  "singles & eps": "singoli ed ep",
+  "shows": "Audiolibri e programmi",
+  "videos": "video",
+  "playlists": "playlist",
+  "related": "ai fan potrebbe anche piacere",
+  "episodes": "puntate più recenti",
+  "podcasts": "podcast"
+}

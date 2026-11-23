@@ -9,11 +9,15 @@
     "allowJs": true,
     "types": ["bun"],
 
-    // Bundler mode
+    // Bundler & Declaration mode
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
-    "noEmit": true,
+    
+    // Type declaration settings
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "./types",
 
     // Best practices
     "strict": true,
@@ -26,5 +30,6 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noPropertyAccessFromIndexSignature": false
-  }
+  },
+  "include": ["src/**/*"]
 }
