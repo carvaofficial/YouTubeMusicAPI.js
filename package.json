@@ -21,10 +21,17 @@
     "README.md",
     "LICENSE"
   ],
-  "keywords": ["youtube-music", "ytmusicapi", "ytmusic", "innertube", "bun", "deno"],
+  "keywords": [
+    "youtube-music",
+    "ytmusicapi",
+    "ytmusic",
+    "innertube",
+    "bun",
+    "deno"
+  ],
   "license": "MIT",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -p jsconfig.json",
     "prepublishOnly": "bun run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -33,5 +40,6 @@
   },
   "peerDependencies": {
     "typescript": "^5"
-  }
+  },
+  "version": "1.0.0"
 }
